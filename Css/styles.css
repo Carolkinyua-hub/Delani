@@ -1,0 +1,9 @@
+.image{
+	display: flex;
+	width: 600px;
+	height: auto;
+	justify-content: center;
+	align-items: center;
+	object-position: center;
+	
+}
