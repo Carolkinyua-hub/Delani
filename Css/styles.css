@@ -87,4 +87,8 @@
 .icon{
 	width:10 px;
 	height: 30px;
+	
+}
+#titles{
+	font-size: small;
 }
