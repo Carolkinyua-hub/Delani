@@ -61,7 +61,6 @@
 	opacity: 0.4;
 }
 #start{
-	font-style: normal;
 	font-weight: 900;
 	text-shadow: white;
 	text-align: center;
@@ -84,4 +83,8 @@
 	height: auto;
 	position: relative;
 	top:30px;
+}
+.icon{
+	width:10 px;
+	height: 30px;
 }
