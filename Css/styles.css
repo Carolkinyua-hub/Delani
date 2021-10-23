@@ -27,8 +27,45 @@
 .services{
 	font-size:xx-small;
 	position: absolute;
-	right:auto;
-	top:200px;
+	top:50px;
 	text-align: center;
 	color: white;
+	right: auto;
+	left: 150px;
+}
+.contact{
+	position: absolute;
+	font-size: xx-small;
+	top:50px;
+	right:auto;
+	left:100px;
+}
+#cimage{
+	position: relative;
+	height: 300px;
+	width:750px;
+}
+.title{
+	text-align: center;
+	font-size: small;
+	text-transform: uppercase;
+}
+.titles{
+	text-align: center;
+	font-size: small;
+	color: white;
+	opacity: 0.4;
+}
+.form-control{
+	font-size: xx-small;
+	color: white;
+	opacity: 0.4;
+}
+#start{
+
+}
+#start2{
+	text-transform: uppercase;
+	font-size: xx-small;
+
 }
