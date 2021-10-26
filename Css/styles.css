@@ -58,7 +58,7 @@
 .form-control{
 	font-size: xx-small;
 	color: white;
-	opacity: 0.4;
+	opacity: 0.8;
 }
 #start{
 	font-weight: 500;
@@ -80,8 +80,6 @@
 	height: auto;
 	position: relative;
 	top:10px;
-	
-
 }
 .mouse{
 	width: 10px;
@@ -103,4 +101,24 @@
 }
 .hover1{
 	display: hidden ;
+}
+.col{
+
+	position: relative;
+	width: 40px;
+	height: 40px;	
+};
+.content{
+  max-width: 500px;
+  margin: auto;
+  background: white;
+	padding: 10px;
+	display: relative;
+}
+#sbmt{
+	font-size: xx-small;
+}
+#end{
+	text-align:center;
+	display:relative;
 }
