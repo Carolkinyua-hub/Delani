@@ -33,11 +33,17 @@ $(".hover3").hide(function(){
 		});
 	});
 });
-           $("form").submit(function(event){
-						 $("#name").value();
-						 $("#email").value();
-						 $("message").value();
-						 let val={name, email}
+});        
+$(document).ready(function(){
+	$(".form1").submit(function(event){
+	alert ("Hi" +" "+ $("input#name").val()+" "+ "we  have received your message");
+		event.preventDefault();	
+	});
+	});
+	
+	
+	        
+  
 
-					 });
-					});
+				
+				
