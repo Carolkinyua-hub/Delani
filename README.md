@@ -1,8 +1,9 @@
 # {Delani Studio}
-#### {https://carolkinyua-hub.github.io/Names/ showcases my work}, {2021}
+![Screenshot](//Images//Screenshot from 2021-10-26 11-40-32.jpg)
+#### {https://carolkinyua-hub.github.io/Delani/ showcases Delani Studio}, {2021}
 #### By **{Caroline Kinyua}**
 ## Description
-{This website generates an Akan Name from ones Birthday and Gender input.
+{This showcases Delani Studio
 }
 ## Setup/Installation Requirements
 * On GitHub, navigate to the main page of the repository.
